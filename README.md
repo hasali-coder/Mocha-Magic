@@ -1,4 +1,4 @@
 # Responsive Coffee Shop Website Design
-### This design belongs to [Mr. Web Designer](https://www.youtube.com/@MrWebDesignerAnas), you can see the video [here](https://youtu.be/52sKmRsk7xU).
+### This design belongs to [Mr. Muange Ali]([https://www.youtube.com/@MrWebDesignerAnas](https://ali-hasali-coder.vercel.app/]).
 
 ![preview img](/preview.png)
